@@ -14,3 +14,6 @@ roaming -> npm -> Nodemodeules->angular->cli copy the path
 environment variables advance ->new -> pasete karo above copied path 
 ng serve or ng serve -open
 <app-fotter></app-fotter>
+Get-ExecutionPolicy
+Set-ExecutionPolicy RemoteSigned
+y
