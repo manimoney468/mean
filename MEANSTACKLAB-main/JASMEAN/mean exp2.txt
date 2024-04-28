@@ -21,7 +21,9 @@ Get-ExecutionPolicy
 Set-ExecutionPolicy RemoteSigned
 y
 
-
+Get-ExecutionPolicy
+Set-ExecutionPolicy RemoteSigned
+y
 cd jas.app
 No
 click the link below
